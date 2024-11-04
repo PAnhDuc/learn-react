@@ -13,7 +13,7 @@ export default function HomePage() {
   return <>
   <section className='top-bar'>
   <div className="container d-flex justify-content-end">
-  <div className='me-3 cursor-pointer'>Thông tin cho</div>
+  <div className='me-3'>Thông tin cho:</div>
   <div className='me-3 cursor-pointer'>Sinh viên tương lai</div>
   <div className='me-3 cursor-pointer'>Sinh viên đang học</div>
   <div className='me-3 cursor-pointer'>Phụ huynh</div>
