@@ -1,0 +1,43 @@
+.window {
+    background-image: linear-gradient(to right, #DCC6F9 , #fff);
+    width: 100vw;
+    height: 100vh;
+}
+
+.login-body {
+    background-color: #fff;
+    width: auto;
+    height: auto;
+    border-radius: 15px;
+    padding: 30px;
+}
+
+.formlogin-container {
+    padding: 15px;
+    border: 1px solid rgba(128, 128, 128, 0.184);
+    border-radius: 5px;
+}
+
+.formlogin-container .title-login {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.formlogin-container .title-desc {
+    color: #ACACAC;
+}
+
+.formlogin-container .title-desc a {
+    color: #AA8DB3;
+    font-weight: 500;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.login-background {
+
+}
+
+.social-btn {
+    border: 1px solid #000;
+}
